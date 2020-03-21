@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digimons/static/css/main.330ea27f.chunk.css",
+    "main.js": "/digimons/static/js/main.92da74ef.chunk.js",
+    "main.js.map": "/digimons/static/js/main.92da74ef.chunk.js.map",
+    "runtime-main.js": "/digimons/static/js/runtime-main.34a214b0.js",
+    "runtime-main.js.map": "/digimons/static/js/runtime-main.34a214b0.js.map",
+    "static/js/2.11f897eb.chunk.js": "/digimons/static/js/2.11f897eb.chunk.js",
+    "static/js/2.11f897eb.chunk.js.map": "/digimons/static/js/2.11f897eb.chunk.js.map",
+    "index.html": "/digimons/index.html",
+    "precache-manifest.e331b3c8cc6d2d0daeee5305259fdafc.js": "/digimons/precache-manifest.e331b3c8cc6d2d0daeee5305259fdafc.js",
+    "service-worker.js": "/digimons/service-worker.js",
+    "static/css/main.330ea27f.chunk.css.map": "/digimons/static/css/main.330ea27f.chunk.css.map",
+    "static/js/2.11f897eb.chunk.js.LICENSE.txt": "/digimons/static/js/2.11f897eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34a214b0.js",
+    "static/js/2.11f897eb.chunk.js",
+    "static/css/main.330ea27f.chunk.css",
+    "static/js/main.92da74ef.chunk.js"
+  ]
+}
